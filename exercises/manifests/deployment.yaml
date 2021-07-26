@@ -4,7 +4,7 @@ metadata:
   labels:
     app: nginx
     tag: alpine
-  name: nginx-alpine
+  name: nginx-alpineS
   namespace: demo
 spec:
   replicas: 3
